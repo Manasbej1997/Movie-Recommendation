@@ -43,8 +43,8 @@ It uses **TF-IDF vectorization** of textual features and **cosine similarity** t
 - **Languages**: Python  
 - **Libraries**: Pandas, NumPy, Scikit-learn, NLTK  
 - **Visualization**: Matplotlib, Seaborn  
-- **Deployment**: Flask / Streamlit  
-- **Cloud Hosting**: Heroku / Render *(if deployed)*  
+- **Deployment**: Flask   
+- **Cloud Hosting**: Heroku 
 
 ##  Features
 - Enter a movie title → get **Top 5 similar movies**  
